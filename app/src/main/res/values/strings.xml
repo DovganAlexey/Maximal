@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TestAufgabe</string>
+    <string name="base_url">https://jsonplaceholder.typicode.com/</string>
+
+    <string name="name">Full Name:&#160;</string>
+    <string name="username">Nickname</string>
+    <string name="contacts">contacts:&#160;</string>
+    <string name="email">Email:&#160;</string>
+    <string name="address">address:&#160;</string>
+    <string name="street">street</string>
+    <string name="suite">suite</string>
+    <string name="city">city</string>
+    <string name="zipcode">zipcode:&#160;</string>
+    <string name="coordinates">coordinates:&#160;(</string>
+    <string name="lat">lat</string>
+    <string name="lng">lng</string>
+    <string name="phone">Phone:&#160;</string>
+    <string name="dots">&#160;:&#160;</string>
+    <string name="website">website:&#160;</string>
+    <string name="company">Company</string>
+    <string name="catchPhrase">catchphrase:&#160;</string>
+    <string name="business_services">business services:&#160;</string>
+    <string name="title">Title:&#160;</string>
+    <string name="message">message:&#160;</string>
+
+
+</resources>
